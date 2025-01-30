@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7474012-3ac6-4680-899e-70ca31aac652" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/add-item-working-project" beforeDir="false" afterPath="$PROJECT_DIR$/add-item-working-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-item-working-project/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/add-item-working-project/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-item-working-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-item-working-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-item-working-project/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/add-item-working-project/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-item-working-project/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/add-item-working-project/src/app/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-two-numbers" beforeDir="false" afterPath="$PROJECT_DIR$/add-two-numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-two-numbers/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/add-two-numbers/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-two-numbers/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/add-two-numbers/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-two-numbers/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/add-two-numbers/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agular-rest-api" beforeDir="false" afterPath="$PROJECT_DIR$/agular-rest-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agular-rest-api/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/agular-rest-api/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get-request" beforeDir="false" afterPath="$PROJECT_DIR$/get-request" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get-request/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/get-request/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get-request/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/get-request/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get-request/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/get-request/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get" beforeDir="false" afterPath="$PROJECT_DIR$/http-get" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/http-get/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/http-get/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/http-get/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/http-get/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/http-get/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-angular-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-angular-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-express-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-express-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-express-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-express-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-express-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-express-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-express-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-express-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parameter-angular" beforeDir="false" afterPath="$PROJECT_DIR$/parameter-angular" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parameter-angular/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/parameter-angular/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/add-two-numbers" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2roLziJO5b53C7F0wGRfT2asrWq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/kumarvaduganathan/Documents/Workspace_TypeScript"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7474012-3ac6-4680-899e-70ca31aac652" name="Changes" comment="" />
+      <created>1737220745364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737220745364</updated>
+    </task>
+    <servers />
+  </component>
+</project>
